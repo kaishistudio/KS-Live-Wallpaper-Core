@@ -1,9 +1,4 @@
-# Interactive Visualization Collection
-
-A curated collection of interactive 2D/3D visualizations (HTML files) with corresponding preview images (PNG). This collection includes astronomical, time, and nature-themed interactive experiences.
-
-## Visualization Gallery
-Below is a list of all available visualizations with their HTML files and preview images:
+# KS-Live-Wallpaper-Core WorkShop Collection
 
 ### 3D Earth Simulation
 - **HTML File**: [3DEarth.html](3DEarth.html)
