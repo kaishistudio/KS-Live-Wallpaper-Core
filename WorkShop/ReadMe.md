@@ -9,8 +9,8 @@
   - HTML File: [Clock1.html](Clock1.html)
   - Preview: ![Clock1 Preview](Clock1.png)
 - **Clock 2** [Clock2.html](Clock2.html)
-  - Preview: ![Clock3 Preview](Clock3.png)
-- **Clock 3** [Clock1.html](Clock1.html)
+  - Preview: ![Clock2 Preview](Clock2.png)
+- **Clock 3** [Clock3.html](Clock3.html)
   - Preview: ![Clock3 Preview](Clock3.png)
 
 ### Firework Animations
