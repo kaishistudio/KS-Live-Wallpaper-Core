@@ -1,5 +1,11 @@
 # KS-Live-Wallpaper-Core WorkShop Collection
 
+## How to Use
+1. Clone or download this repository to your local machine.
+2. Click the DISCOVER option in KS-Live-Wallpaper-Core software to import html files, and Video to import video files.
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NMT7V9NQWZZ)
+3. The PNG images are preview thumbnails for the corresponding HTML visualizations.
+
 ### 3D Earth Simulation
 - **HTML File**: [3DEarth.html](3DEarth.html)
 - **Preview**: ![3DEarth Preview](3DEarth.png)
@@ -50,11 +56,6 @@
 - **Galaxy 3**
   - HTML File: [galaxy3.html](galaxy3.html)
   - Preview: ![galaxy3 Preview](galaxy3.png)
-
-## How to Use
-1. Clone or download this repository to your local machine.
-2. Open any `.html` file directly in a modern web browser (Chrome, Firefox, Edge recommended).
-3. The PNG images are preview thumbnails for the corresponding HTML visualizations.
 
 ## Notes
 - Some entries have only HTML files (no PNG) or only PNG files (no HTML) as indicated.
