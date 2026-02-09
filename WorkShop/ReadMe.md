@@ -4,7 +4,7 @@
 1. Clone or download this repository to your local machine.
 2. Click the DISCOVER option in KS-Live-Wallpaper-Core software to import html files, and Video to import video files.
 
-[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9nxwlpq66s5)
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9nxwlpq66s53)
 
 3. The PNG images are preview thumbnails for the corresponding HTML visualizations.
 
